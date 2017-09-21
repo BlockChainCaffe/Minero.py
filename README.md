@@ -58,12 +58,12 @@ Successivamente aumento il numero, così da farmi un'idea di come funziona il pr
 
 # Risultati
 
-Zeri | Tentativi
-----------------------
-1 | 30
-2 | 912
-3 | 8.077
-4 | 11.667
-8 | ... si vabbeh, è chiaro
+|Zeri | Tentativi|
+|-----|----------------|
+|1 | 30|
+|2 | 912|
+|3 | 8.077|
+|4 | 11.667|
+|8 | ... si vabbeh, mi fermo a **7.000.000** che il concetto è chiaro|
 
 Tenete presente che i blocchi, mediamente, **hanno 18/19 zeri** iniziali

@@ -45,13 +45,25 @@ Nonce |  Hash
 0 	caf0227ddedd9cfa1c94b040b662b90d57b94975ee62b1d6ad4864e4979ab87d
 1 	7db4b25cafb38bd23c477bfe7cc7e6da5f82cb27d0ed6d4f7518ad51cb91089f
 2 	d40afca9419679080b4d048e230654d07cd22a350611490b50c4d0315d193edd
-3 	658aa1827991e2b65c58c34291e32fddfd7620a495806001d84f34e1f4568056
 ...
 28 	d147f888e28f171bc7e1d827d309070695bed52509b219c1468c054cd4f48408
 29 	58049ed61d152b3e6457403cc6ee59b2430c10726ebd5954817f8be3fcb7cb00
 30 	06806a11e4471a3dfad62bff4a054c01ba0fb5ed591a4552aa02b75010530ec1
 ```
 
+
 Posso aumentare il numero da 1 a 2 e vedere che ci mette molti più tentativi...
 
 Successivamente aumento il numero, così da farmi un'idea di come funziona il processo di mining
+
+# Risultati
+
+Zeri | Tentativi
+----------------------
+1 | 30
+2 | 912
+3 | 8.077
+4 | 11.667
+8 | ... si vabbeh, è chiaro
+
+Tenete presente che i blocchi, mediamente, **hanno 18/19 zeri** iniziali

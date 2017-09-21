@@ -37,8 +37,10 @@ python minero.py 1
 ```
 Come output ottengo una lista di tentativi: l'incremento progressivo del nonce (prima colonna) e l'hash calcolata (seconda).
 
+Esempio:
 
-```
+``` Nonce |  Hash
+------------------------------------------------------------------------
 0 	caf0227ddedd9cfa1c94b040b662b90d57b94975ee62b1d6ad4864e4979ab87d
 1 	7db4b25cafb38bd23c477bfe7cc7e6da5f82cb27d0ed6d4f7518ad51cb91089f
 2 	d40afca9419679080b4d048e230654d07cd22a350611490b50c4d0315d193edd

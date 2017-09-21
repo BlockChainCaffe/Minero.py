@@ -7,6 +7,8 @@ nonce=0
 zeron=int(sys.argv[1])
 zeros='0'*zeron
 
+print " Nonce |  Hash"
+print "------------------------------------------------------------------------"
 while 1==1 :
     h = hashlib.sha256( hashlib.sha256( block+str(nonce) ).hexdigest()).hexdigest()
     print nonce, '\t',h
@@ -14,3 +16,4 @@ while 1==1 :
     if (head == zeros):
         break
     nonce += 1;
+print '\t', '^'*zeron
